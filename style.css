@@ -1,0 +1,135 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: 'Open Sans', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.section-part{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
+}
+#init1{
+    font-family: arial;
+    font-weight:900;
+    font-size:30px;
+}
+#name-highlight{
+    font-family: 'Lobster', cursive;
+    color:#66CC66;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
+.half-width p{
+    text-align: justify;
+    color: dimgray;
+
+}
+#jm_self{
+    font-weight: bold;
+    color:orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+button{
+    padding:5px 10px;
+    color:white;
+    background-image: linear-gradient(90deg,#2ada90,#6fbfee);
+    border-radius: 5px;
+ 
+}
+button a{
+    text-decoration: none;
+    font-weight: 900;
+
+}
+h2{
+    font-size: 40px;
+}
+#hea1{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+ #link{
+    text-decoration: none;
+    border:1px solid black;
+    padding:5px 10px;
+    color:white;
+    background-image: linear-gradient(90deg,#ef5f0a,#f3d92eeb);
+    font-weight: bold;
+    border-radius: 5px;
+}
+.section-part2{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#exp{
+    text-align: center;
+    font-size: 35px;
+    color:#66CC99;
+    font-style: italic;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.spa{
+    color:#66CC99;
+    font-weight: bold;
+    font-size: 22px;
+
+}
+.web-dev{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.web-dev1{
+    font-size: 28px;
+    font-weight: bold;
+}
+.section-part3{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 450px;
+}
+.experience-part{
+    border-radius:2px;
+    height: 50%;
+    width:40%
+    
+    margin-top:170px;
+    box-shadow: 10px 10px 40px gray;
+    padding:25px 20px;
+}
+#sr-id{
+    border-left-width:5px ;
+    border-left-style: solid;
+    border-image: linear-gradient(#ff937aeb,#ff6347eb);
+    border-image-slice: 1;
+    background-color: white;
+}
+#pu-id{
+    border-left-width:5px ;
+    border-left-style: solid;
+    border-image: linear-gradient(#817affeb,#47e6ffeb);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    font-size: 22px;
+    color:wheat;
+}
